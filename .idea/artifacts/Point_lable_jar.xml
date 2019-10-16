@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Point_lable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Point_lable_jar</output-path>
+    <root id="archive" name="Point_lable.jar">
+      <element id="module-output" name="Point_lable" />
+    </root>
+  </artifact>
+</component>
