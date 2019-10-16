@@ -10,7 +10,6 @@
 备注：该工具是JAVA语言编写，运行前需要安装jdk。
 
 1. 打开图片或目录
- !(open.png)
  ![](./open.png)
 2. 保存点位
- !(pont.png)
+ ![](./pont.png)
